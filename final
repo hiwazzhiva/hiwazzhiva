@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<html lang="en">
+<title>Final</title>
+</head>
+<body>
+<header>
+<h1>Anar Nurgaliyeva</h1>
+<nav>
+<a href="https://whatzviral.com/wp-content/uploads/2019/01/23-1.jpg">One</a>
+<a href="https://www.boredpanda.com/cute-funny-alpacas/?utm_source=yandex&utm_medium=organic&utm_campaign=organic">Two</a>
+<a href="https://youtube.com/playlist?list=PLM9cAf1bHc0iJUeBseCX5zzghO1iPdYHr">Three</a>
+<a href="https://i.pinimg.com/originals/90/4d/fe/904dfee5b5172dd4100f69bfed014684.jpg">Optional</a>
+</nav>
+
+<section><br/>
+<h2>Favoutite Foods</h2>
+<ul>
+<li>Chocolate</li>
+<li>Peaches</li>
+<li>Pizza</li>
+<li>Cheese</li>
+</ul>
+</section>
+
+<section><br/>
+<h2>Achievements</h2>
+<p>Progress in this course(100%)<progress value="1"></progress><br/>
+Progress in the Specialization capstone(20%)<progress value="20" max="100"></progress><br/>
+Progress in life goals <progress value="11" max="100"></progress></p>
+</section>
+
+<section><br/>
+<h2>More About Me</h2>
+<details open>
+<summary>Fun fact</summary>
+<p>I like alpacas</p>
+</details>
+</section>
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WD4E">
+<footer>
+<p>This page was created by Anar Nurgaliyeva & Colleen van Lent. To learn more about web design, visit 
+<a href="http://www.intro-webdesign.com">Intro to Web Design</a>
+</p>
+</footer>
